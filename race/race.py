@@ -18,7 +18,7 @@ import discord
 from .animals import Animal, racers
 
 __author__ = "Redjumpman"
-__version__ = "2.1.5"
+__version__ = "2.1.6"
 
 
 class FancyDict(dict):
